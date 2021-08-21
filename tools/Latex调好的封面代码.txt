@@ -1,0 +1,22 @@
+%可以粘贴在任意一个模板文档的前面作为封面
+%使用时，需要\usepackage{float}
+%图片是logo.png，保存在根目录
+\begin{center} 
+	\zihao{1} 中国科学技术大学计算机学院\\ 
+	          《数字电路实验》报告\\
+	\ \\
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=300pt]{logo.png}
+\end{figure}
+
+	\zihao{2} \ \\
+			  实验题目：\\
+			  学生姓名：\\
+			  学生学号：\\
+			  完成日期：\\
+			  \ \\
+	\zihao{4} 计算机实验教学中心制\\
+			  2019年09月	
+\end{center}
