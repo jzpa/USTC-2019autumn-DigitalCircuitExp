@@ -1,4 +1,4 @@
-# USTC 2019autumn DigitalCircic
+# USTC 2019autumn DigitalCircuit Exp
 
 中国科学技术大学 2019秋 数字电路实验
 
